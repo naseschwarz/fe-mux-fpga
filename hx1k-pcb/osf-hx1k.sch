@@ -1,0 +1,65 @@
+v 20121123 2
+C 32300 26200 0 0 0 title-A0.sym
+C 34700 51400 1 0 0 hx1k-tq144-blocks-bank0.sym
+{
+T 38100 56200 5 10 1 1 0 6 1
+device=HX1K-BANK0
+T 35100 56200 5 10 1 1 0 0 1
+refdes=U?
+T 35100 56800 5 10 0 0 0 0 1
+footprint=TQFP144
+}
+C 39500 51500 1 0 0 hx1k-tq144-blocks-bank1.sym
+{
+T 42900 56700 5 10 1 1 0 6 1
+device=HX1K-BANK1
+T 39900 56700 5 10 1 1 0 0 1
+refdes=U?
+T 39900 57300 5 10 0 0 0 0 1
+footprint=TQFP144
+}
+C 45300 51700 1 0 0 hx1k-tq144-blocks-bank2.sym
+{
+T 48600 56300 5 10 1 1 0 6 1
+device=HX1K-BANK2
+T 45600 56300 5 10 1 1 0 0 1
+refdes=U?
+T 45600 56900 5 10 0 0 0 0 1
+footprint=TQFP144
+}
+C 49500 50100 1 0 0 hx1k-tq144-blocks-bank3.sym
+{
+T 52800 57300 5 10 1 1 0 6 1
+device=HX1K-BANK3
+T 49800 57300 5 10 1 1 0 0 1
+refdes=U?
+T 49800 57900 5 10 0 0 0 0 1
+footprint=TQFP144
+}
+C 54400 52900 1 0 0 hx1k-tq144-blocks-nc.sym
+{
+T 57800 57100 5 10 1 1 0 6 1
+device=HX1K-NC
+T 54800 57100 5 10 1 1 0 0 1
+refdes=U?
+T 54800 57700 5 10 0 0 0 0 1
+footprint=TQFP144
+}
+C 58500 50700 1 0 0 hx1k-tq144-blocks-power.sym
+{
+T 61900 57500 5 10 1 1 0 6 1
+device=HX1K-POWER
+T 58900 57500 5 10 1 1 0 0 1
+refdes=U?
+T 58900 58100 5 10 0 0 0 0 1
+footprint=TQFP144
+}
+C 64000 55100 1 0 0 hx1k-tq144-blocks-spi.sym
+{
+T 67300 56100 5 10 1 1 0 6 1
+device=HX1K-SPI
+T 64300 56100 5 10 1 1 0 0 1
+refdes=U?
+T 64300 56700 5 10 0 0 0 0 1
+footprint=TQFP144
+}

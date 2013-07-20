@@ -1,6 +1,6 @@
 .PHONY: all
 
-PNAME=osfpga
+PNAME=osf-hx1k
 
 all:
 	@echo "Please use specific targets."
