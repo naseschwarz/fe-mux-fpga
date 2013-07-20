@@ -1,0 +1,350 @@
+v 20121123 2
+P 200 1700 400 1700 1 0 0
+{
+T 700 1700 5 10 0 0 0 0 1
+pintype=pwr
+T 455 1685 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 1745 5 10 1 1 0 6 1
+pinnumber=5
+T 600 1700 5 10 0 0 0 0 1
+pinseq=5
+T 2600 1700 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 2900 400 2900 1 0 0
+{
+T 700 2900 5 10 0 0 0 0 1
+pintype=pwr
+T 455 2885 5 10 1 1 0 0 1
+pinlabel=VCCIO_3
+T 305 2945 5 10 1 1 0 6 1
+pinnumber=6
+T 600 2900 5 10 0 0 0 0 1
+pinseq=6
+T 2600 2900 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 1500 400 1500 1 0 0
+{
+T 700 1500 5 10 0 0 0 0 1
+pintype=pwr
+T 455 1485 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 1545 5 10 1 1 0 6 1
+pinnumber=13
+T 600 1500 5 10 0 0 0 0 1
+pinseq=13
+T 2600 1500 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 1300 400 1300 1 0 0
+{
+T 700 1300 5 10 0 0 0 0 1
+pintype=pwr
+T 455 1285 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 1345 5 10 1 1 0 6 1
+pinnumber=14
+T 600 1300 5 10 0 0 0 0 1
+pinseq=14
+T 2600 1300 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 6500 400 6500 1 0 0
+{
+T 700 6500 5 10 0 0 0 0 1
+pintype=pwr
+T 455 6485 5 10 1 1 0 0 1
+pinlabel=VCC
+T 305 6545 5 10 1 1 0 6 1
+pinnumber=27
+T 600 6500 5 10 0 0 0 0 1
+pinseq=27
+T 2600 6500 5 10 1 1 0 0 1
+vtype=VCC
+}
+P 200 2700 400 2700 1 0 0
+{
+T 700 2700 5 10 0 0 0 0 1
+pintype=pwr
+T 455 2685 5 10 1 1 0 0 1
+pinlabel=VCCIO_3
+T 305 2745 5 10 1 1 0 6 1
+pinnumber=30
+T 600 2700 5 10 0 0 0 0 1
+pinseq=30
+T 2600 2700 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 2100 400 2100 1 0 0
+{
+T 700 2100 5 10 0 0 0 0 1
+pintype=pwr
+T 455 2085 5 10 1 1 0 0 1
+pinlabel=GNDPLL
+T 305 2145 5 10 1 1 0 6 1
+pinnumber=35
+T 600 2100 5 10 0 0 0 0 1
+pinseq=35
+T 2600 2100 5 10 1 1 0 0 1
+vtype=GNDPLL
+}
+P 200 2300 400 2300 1 0 0
+{
+T 700 2300 5 10 0 0 0 0 1
+pintype=pwr
+T 455 2285 5 10 1 1 0 0 1
+pinlabel=VCCPLL
+T 305 2345 5 10 1 1 0 6 1
+pinnumber=36
+T 600 2300 5 10 0 0 0 0 1
+pinseq=36
+T 2600 2300 5 10 1 1 0 0 1
+vtype=VCCPLL
+}
+P 200 3500 400 3500 1 0 0
+{
+T 700 3500 5 10 0 0 0 0 1
+pintype=pwr
+T 455 3485 5 10 1 1 0 0 1
+pinlabel=VCCIO_2
+T 305 3545 5 10 1 1 0 6 1
+pinnumber=46
+T 600 3500 5 10 0 0 0 0 1
+pinseq=46
+T 2600 3500 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 6300 400 6300 1 0 0
+{
+T 700 6300 5 10 0 0 0 0 1
+pintype=pwr
+T 455 6285 5 10 1 1 0 0 1
+pinlabel=VCC
+T 305 6345 5 10 1 1 0 6 1
+pinnumber=51
+T 600 6300 5 10 0 0 0 0 1
+pinseq=51
+T 2600 6300 5 10 1 1 0 0 1
+vtype=VCC
+}
+P 200 3300 400 3300 1 0 0
+{
+T 700 3300 5 10 0 0 0 0 1
+pintype=pwr
+T 455 3285 5 10 1 1 0 0 1
+pinlabel=VCCIO_2
+T 305 3345 5 10 1 1 0 6 1
+pinnumber=57
+T 600 3300 5 10 0 0 0 0 1
+pinseq=57
+T 2600 3300 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 1100 400 1100 1 0 0
+{
+T 700 1100 5 10 0 0 0 0 1
+pintype=pwr
+T 455 1085 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 1145 5 10 1 1 0 6 1
+pinnumber=59
+T 600 1100 5 10 0 0 0 0 1
+pinseq=59
+T 2600 1100 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 900 400 900 1 0 0
+{
+T 700 900 5 10 0 0 0 0 1
+pintype=pwr
+T 455 885 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 945 5 10 1 1 0 6 1
+pinnumber=69
+T 600 900 5 10 0 0 0 0 1
+pinseq=69
+T 2600 900 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 5500 400 5500 1 0 0
+{
+T 700 5500 5 10 0 0 0 0 1
+pintype=io
+T 455 5485 5 10 1 1 0 0 1
+pinlabel=VCC_SPI
+T 305 5545 5 10 1 1 0 6 1
+pinnumber=72
+T 600 5500 5 10 0 0 0 0 1
+pinseq=72
+T 2600 5500 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 200 700 400 700 1 0 0
+{
+T 700 700 5 10 0 0 0 0 1
+pintype=pwr
+T 455 685 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 745 5 10 1 1 0 6 1
+pinnumber=86
+T 600 700 5 10 0 0 0 0 1
+pinseq=86
+T 2600 700 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 4100 400 4100 1 0 0
+{
+T 700 4100 5 10 0 0 0 0 1
+pintype=pwr
+T 455 4085 5 10 1 1 0 0 1
+pinlabel=VCCIO_1
+T 305 4145 5 10 1 1 0 6 1
+pinnumber=89
+T 600 4100 5 10 0 0 0 0 1
+pinseq=89
+T 2600 4100 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 6100 400 6100 1 0 0
+{
+T 700 6100 5 10 0 0 0 0 1
+pintype=pwr
+T 455 6085 5 10 1 1 0 0 1
+pinlabel=VCC
+T 305 6145 5 10 1 1 0 6 1
+pinnumber=92
+T 600 6100 5 10 0 0 0 0 1
+pinseq=92
+T 2600 6100 5 10 1 1 0 0 1
+vtype=VCC
+}
+P 200 3900 400 3900 1 0 0
+{
+T 700 3900 5 10 0 0 0 0 1
+pintype=pwr
+T 455 3885 5 10 1 1 0 0 1
+pinlabel=VCCIO_1
+T 305 3945 5 10 1 1 0 6 1
+pinnumber=100
+T 600 3900 5 10 0 0 0 0 1
+pinseq=100
+T 2600 3900 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 500 400 500 1 0 0
+{
+T 700 500 5 10 0 0 0 0 1
+pintype=pwr
+T 455 485 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 545 5 10 1 1 0 6 1
+pinnumber=103
+T 600 500 5 10 0 0 0 0 1
+pinseq=103
+T 2600 500 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 5300 400 5300 1 0 0
+{
+T 700 5300 5 10 0 0 0 0 1
+pintype=pwr
+T 455 5285 5 10 1 1 0 0 1
+pinlabel=VPP_2V5
+T 305 5345 5 10 1 1 0 6 1
+pinnumber=108
+T 600 5300 5 10 0 0 0 0 1
+pinseq=108
+T 2600 5300 5 10 1 1 0 0 1
+vtype=VPP
+}
+P 200 5100 400 5100 1 0 0
+{
+T 700 5100 5 10 0 0 0 0 1
+pintype=pwr
+T 455 5085 5 10 1 1 0 0 1
+pinlabel=VPP_FAST
+T 305 5145 5 10 1 1 0 6 1
+pinnumber=109
+T 600 5100 5 10 0 0 0 0 1
+pinseq=109
+T 2600 5100 5 10 1 1 0 0 1
+vtype=VPP
+}
+P 200 5900 400 5900 1 0 0
+{
+T 700 5900 5 10 0 0 0 0 1
+pintype=pwr
+T 455 5885 5 10 1 1 0 0 1
+pinlabel=VCC
+T 305 5945 5 10 1 1 0 6 1
+pinnumber=111
+T 600 5900 5 10 0 0 0 0 1
+pinseq=111
+T 2600 5900 5 10 1 1 0 0 1
+vtype=VCC
+}
+P 200 4700 400 4700 1 0 0
+{
+T 700 4700 5 10 0 0 0 0 1
+pintype=pwr
+T 455 4685 5 10 1 1 0 0 1
+pinlabel=VCCIO_0
+T 305 4745 5 10 1 1 0 6 1
+pinnumber=123
+T 600 4700 5 10 0 0 0 0 1
+pinseq=123
+T 2600 4700 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 300 400 300 1 0 0
+{
+T 700 300 5 10 0 0 0 0 1
+pintype=pwr
+T 455 285 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 345 5 10 1 1 0 6 1
+pinnumber=132
+T 600 300 5 10 0 0 0 0 1
+pinseq=132
+T 2600 300 5 10 1 1 0 0 1
+vtype=GND
+}
+P 200 4500 400 4500 1 0 0
+{
+T 700 4500 5 10 0 0 0 0 1
+pintype=pwr
+T 455 4485 5 10 1 1 0 0 1
+pinlabel=VCCIO_0
+T 305 4545 5 10 1 1 0 6 1
+pinnumber=133
+T 600 4500 5 10 0 0 0 0 1
+pinseq=133
+T 2600 4500 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 200 100 400 100 1 0 0
+{
+T 700 100 5 10 0 0 0 0 1
+pintype=pwr
+T 455 85 5 10 1 1 0 0 1
+pinlabel=GND
+T 305 145 5 10 1 1 0 6 1
+pinnumber=140
+T 600 100 5 10 0 0 0 0 1
+pinseq=140
+T 2600 100 5 10 1 1 0 0 1
+vtype=GND
+}
+B 400 0 3000 6700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 3400 6800 8 10 1 1 0 6 1
+device=HX1K-POWER
+T 400 6800 8 10 1 1 0 0 1
+refdes=U?
+T 400 7000 8 10 0 0 0 0 1
+numslots=0
+T 400 7200 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 400 7400 8 10 0 0 0 0 1
+footprint=TQFP144

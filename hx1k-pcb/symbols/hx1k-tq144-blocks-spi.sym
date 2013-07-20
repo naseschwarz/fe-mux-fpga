@@ -1,0 +1,64 @@
+v 20121123 2
+P 100 700 300 700 1 0 0
+{
+T 600 700 5 10 0 0 0 0 1
+pintype=io
+T 355 685 5 10 1 1 0 0 1
+pinlabel=IOB_44_SDO
+T 205 745 5 10 1 1 0 6 1
+pinnumber=67
+T 500 700 5 10 0 0 0 0 1
+pinseq=67
+T 2500 700 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 100 500 300 500 1 0 0
+{
+T 600 500 5 10 0 0 0 0 1
+pintype=io
+T 355 485 5 10 1 1 0 0 1
+pinlabel=IOB_45_SDI
+T 205 545 5 10 1 1 0 6 1
+pinnumber=68
+T 500 500 5 10 0 0 0 0 1
+pinseq=68
+T 2500 500 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 100 300 300 300 1 0 0
+{
+T 600 300 5 10 0 0 0 0 1
+pintype=io
+T 355 285 5 10 1 1 0 0 1
+pinlabel=IOB_46_SCK
+T 205 345 5 10 1 1 0 6 1
+pinnumber=70
+T 500 300 5 10 0 0 0 0 1
+pinseq=70
+T 2500 300 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 100 100 300 100 1 0 0
+{
+T 600 100 5 10 0 0 0 0 1
+pintype=io
+T 355 85 5 10 1 1 0 0 1
+pinlabel=IOB_47_SS
+T 205 145 5 10 1 1 0 6 1
+pinnumber=71
+T 500 100 5 10 0 0 0 0 1
+pinseq=71
+T 2500 100 5 10 1 1 0 0 1
+vtype=SPI
+}
+B 300 0 3000 900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 3300 1000 8 10 1 1 0 6 1
+device=HX1K-SPI
+T 300 1000 8 10 1 1 0 0 1
+refdes=U?
+T 300 1200 8 10 0 0 0 0 1
+numslots=0
+T 300 1400 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 300 1600 8 10 0 0 0 0 1
+footprint=TQFP144

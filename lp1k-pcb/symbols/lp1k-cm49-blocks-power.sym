@@ -1,0 +1,168 @@
+v 20121123 2
+P 100 1900 300 1900 1 0 0
+{
+T 600 1900 5 10 0 0 0 0 1
+pintype=pwr
+T 355 1895 5 10 1 1 0 0 1
+pinlabel=VCCIO_0
+T 205 1945 5 10 1 1 0 6 1
+pinnumber=B5
+T 500 1900 5 10 0 0 0 0 1
+pinseq=12
+T 2500 1900 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 100 2100 300 2100 1 0 0
+{
+T 600 2100 5 10 0 0 0 0 1
+pintype=pwr
+T 355 2095 5 10 1 1 0 0 1
+pinlabel=VCCIO_1
+T 205 2145 5 10 1 1 0 6 1
+pinnumber=B6
+T 500 2100 5 10 0 0 0 0 1
+pinseq=13
+T 2500 2100 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 100 1700 300 1700 1 0 0
+{
+T 600 1700 5 10 0 0 0 0 1
+pintype=pwr
+T 355 1695 5 10 1 1 0 0 1
+pinlabel=VPP_2V5
+T 205 1745 5 10 1 1 0 6 1
+pinnumber=B7
+T 500 1700 5 10 0 0 0 0 1
+pinseq=14
+T 2500 1700 5 10 1 1 0 0 1
+vtype=VPP
+}
+P 100 2500 300 2500 1 0 0
+{
+T 600 2500 5 10 0 0 0 0 1
+pintype=pwr
+T 355 2495 5 10 1 1 0 0 1
+pinlabel=VCC
+T 205 2545 5 10 1 1 0 6 1
+pinnumber=C3
+T 500 2500 5 10 0 0 0 0 1
+pinseq=17
+T 2500 2500 5 10 1 1 0 0 1
+vtype=VCC
+}
+P 100 2700 300 2700 1 0 0
+{
+T 600 2700 5 10 0 0 0 0 1
+pintype=io
+T 355 2695 5 10 1 1 0 0 1
+pinlabel=VCC
+T 205 2745 5 10 1 1 0 6 1
+pinnumber=E1
+T 500 2700 5 10 0 0 0 0 1
+pinseq=29
+T 2500 2700 5 10 1 1 0 0 1
+vtype=VCC
+}
+P 100 1100 300 1100 1 0 0
+{
+T 600 1100 5 10 0 0 0 0 1
+pintype=io
+T 355 1095 5 10 1 1 0 0 1
+pinlabel=GND
+T 205 1145 5 10 1 1 0 6 1
+pinnumber=E3
+T 500 1100 5 10 0 0 0 0 1
+pinseq=31
+T 2500 1100 5 10 1 1 0 0 1
+vtype=GND
+}
+P 100 900 300 900 1 0 0
+{
+T 600 900 5 10 0 0 0 0 1
+pintype=io
+T 355 895 5 10 1 1 0 0 1
+pinlabel=GND
+T 205 945 5 10 1 1 0 6 1
+pinnumber=E4
+T 500 900 5 10 0 0 0 0 1
+pinseq=32
+T 2500 900 5 10 1 1 0 0 1
+vtype=GND
+}
+P 100 700 300 700 1 0 0
+{
+T 600 700 5 10 0 0 0 0 1
+pintype=io
+T 355 695 5 10 1 1 0 0 1
+pinlabel=GND
+T 205 745 5 10 1 1 0 6 1
+pinnumber=E5
+T 500 700 5 10 0 0 0 0 1
+pinseq=33
+T 2500 700 5 10 1 1 0 0 1
+vtype=GND
+}
+P 100 300 300 300 1 0 0
+{
+T 600 300 5 10 0 0 0 0 1
+pintype=io
+T 355 295 5 10 1 1 0 0 1
+pinlabel=VCCPLL
+T 205 345 5 10 1 1 0 6 1
+pinnumber=F1
+T 500 300 5 10 0 0 0 0 1
+pinseq=36
+T 2500 300 5 10 1 1 0 0 1
+vtype=VCCPLL
+}
+P 100 100 300 100 1 0 0
+{
+T 600 100 5 10 0 0 0 0 1
+pintype=io
+T 355 95 5 10 1 1 0 0 1
+pinlabel=GNDPLL
+T 205 145 5 10 1 1 0 6 1
+pinnumber=G1
+T 500 100 5 10 0 0 0 0 1
+pinseq=43
+T 2500 100 5 10 1 1 0 0 1
+vtype=GNDPLL
+}
+P 100 2300 300 2300 1 0 0
+{
+T 600 2300 5 10 0 0 0 0 1
+pintype=io
+T 355 2295 5 10 1 1 0 0 1
+pinlabel=VCCIO_2_3
+T 205 2345 5 10 1 1 0 6 1
+pinnumber=G2
+T 500 2300 5 10 0 0 0 0 1
+pinseq=44
+T 2500 2300 5 10 1 1 0 0 1
+vtype=VCCIO
+}
+P 100 1500 300 1500 1 0 0
+{
+T 600 1500 5 10 0 0 0 0 1
+pintype=io
+T 355 1495 5 10 1 1 0 0 1
+pinlabel=VCC_SPI
+T 205 1545 5 10 1 1 0 6 1
+pinnumber=G7
+T 500 1500 5 10 0 0 0 0 1
+pinseq=49
+T 2500 1500 5 10 1 1 0 0 1
+vtype=SPI
+}
+T 300 3000 8 10 1 1 0 0 1
+refdes=U?
+T 2000 3000 8 10 1 1 0 0 1
+device=LP1K-POWER
+T 300 3400 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 300 3600 8 10 0 0 0 0 1
+numslots=0
+T 300 3800 8 10 0 0 0 0 1
+footprint=CM49
+B 300 0 3100 2900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1

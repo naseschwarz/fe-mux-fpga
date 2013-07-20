@@ -1,0 +1,64 @@
+v 20121123 2
+P 100 100 300 100 1 0 0
+{
+T 600 100 5 10 0 0 0 0 1
+pintype=io
+T 355 95 5 10 1 1 0 0 1
+pinlabel=IOB_47_SS
+T 205 145 5 10 1 1 0 6 1
+pinnumber=E6
+T 500 100 5 10 0 0 0 0 1
+pinseq=34
+T 2500 100 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 100 700 300 700 1 0 0
+{
+T 600 700 5 10 0 0 0 0 1
+pintype=io
+T 355 695 5 10 1 1 0 0 1
+pinlabel=IOB_44_SDO
+T 205 745 5 10 1 1 0 6 1
+pinnumber=F5
+T 500 700 5 10 0 0 0 0 1
+pinseq=40
+T 2500 700 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 100 300 300 300 1 0 0
+{
+T 600 300 5 10 0 0 0 0 1
+pintype=io
+T 355 295 5 10 1 1 0 0 1
+pinlabel=IOB_46_SCK
+T 205 345 5 10 1 1 0 6 1
+pinnumber=F6
+T 500 300 5 10 0 0 0 0 1
+pinseq=41
+T 2500 300 5 10 1 1 0 0 1
+vtype=SPI
+}
+P 100 500 300 500 1 0 0
+{
+T 600 500 5 10 0 0 0 0 1
+pintype=io
+T 355 495 5 10 1 1 0 0 1
+pinlabel=IOB_45_SDI
+T 205 545 5 10 1 1 0 6 1
+pinnumber=G6
+T 500 500 5 10 0 0 0 0 1
+pinseq=48
+T 2500 500 5 10 1 1 0 0 1
+vtype=SPI
+}
+T 400 1000 8 10 1 1 0 0 1
+refdes=U?
+T 2100 1000 8 10 1 1 0 0 1
+device=LP1K-SPI
+T 400 1400 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 400 1600 8 10 0 0 0 0 1
+numslots=0
+T 400 1800 8 10 0 0 0 0 1
+footprint=CM49
+B 300 0 3100 900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1

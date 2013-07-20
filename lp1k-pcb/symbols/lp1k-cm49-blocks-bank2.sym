@@ -1,0 +1,102 @@
+v 20121123 2
+P 100 100 300 100 1 0 0
+{
+T 600 100 5 10 0 0 0 0 1
+pintype=io
+T 355 95 5 10 1 1 0 0 1
+pinlabel=CDONE
+T 205 145 5 10 1 1 0 6 1
+pinnumber=D5
+T 500 100 5 10 0 0 0 0 1
+pinseq=26
+T 1800 100 5 10 1 0 0 0 1
+bank=2
+T 2500 100 5 10 1 1 0 0 1
+vtype=CONFIG
+}
+P 100 1100 300 1100 1 0 0
+{
+T 600 1100 5 10 0 0 0 0 1
+pintype=io
+T 355 1095 5 10 1 1 0 0 1
+pinlabel=IOB_34
+T 205 1145 5 10 1 1 0 6 1
+pinnumber=F3
+T 500 1100 5 10 0 0 0 0 1
+pinseq=38
+T 1800 1100 5 10 1 0 0 0 1
+bank=2
+T 2500 1100 5 10 1 1 0 0 1
+vtype=PIO
+}
+P 100 900 300 900 1 0 0
+{
+T 600 900 5 10 0 0 0 0 1
+pintype=io
+T 355 895 5 10 1 1 0 0 1
+pinlabel=IOB_42_CBSEL0
+T 205 945 5 10 1 1 0 6 1
+pinnumber=F4
+T 500 900 5 10 0 0 0 0 1
+pinseq=39
+T 1800 900 5 10 1 0 0 0 1
+bank=2
+T 2500 900 5 10 1 1 0 0 1
+vtype=PIO
+}
+P 100 700 300 700 1 0 0
+{
+T 600 700 5 10 0 0 0 0 1
+pintype=io
+T 355 695 5 10 1 1 0 0 1
+pinlabel=IOB_35_GBIN5
+T 205 745 5 10 1 1 0 6 1
+pinnumber=G3
+T 500 700 5 10 0 0 0 0 1
+pinseq=45
+T 1800 700 5 10 1 0 0 0 1
+bank=2
+T 2500 700 5 10 1 1 0 0 1
+vtype=GBIN
+}
+P 100 500 300 500 1 0 0
+{
+T 600 500 5 10 0 0 0 0 1
+pintype=io
+T 355 495 5 10 1 1 0 0 1
+pinlabel=IO_43_CBSEL1
+T 205 545 5 10 1 1 0 6 1
+pinnumber=G4
+T 500 500 5 10 0 0 0 0 1
+pinseq=46
+T 1800 500 5 10 1 0 0 0 1
+bank=2
+T 2500 500 5 10 1 1 0 0 1
+vtype=PIO
+}
+P 100 300 300 300 1 0 0
+{
+T 600 300 5 10 0 0 0 0 1
+pintype=io
+T 355 295 5 10 1 1 0 0 1
+pinlabel=CRESET_B
+T 205 345 5 10 1 1 0 6 1
+pinnumber=G5
+T 500 300 5 10 0 0 0 0 1
+pinseq=47
+T 1800 300 5 10 1 0 0 0 1
+bank=2
+T 2500 300 5 10 1 1 0 0 1
+vtype=CONFIG
+}
+T 400 1400 8 10 1 1 0 0 1
+refdes=U?
+T 2100 1400 8 10 1 1 0 0 1
+device=LP1K-BANK2
+T 400 1800 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 400 2000 8 10 0 0 0 0 1
+numslots=0
+T 400 2200 8 10 0 0 0 0 1
+footprint=CM49
+B 300 0 3100 1300 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1

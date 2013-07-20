@@ -1,0 +1,162 @@
+v 20121123 2
+P 100 2100 300 2100 1 0 0
+{
+T 600 2100 5 10 0 0 0 0 1
+pintype=io
+T 355 2095 5 10 1 1 0 0 1
+pinlabel=IOL_4A
+T 205 2145 5 10 1 1 0 6 1
+pinnumber=A1
+T 500 2100 5 10 0 0 0 0 1
+pinseq=1
+T 1800 2100 5 10 1 0 0 0 1
+bank=3
+T 2500 2100 5 10 1 1 0 0 1
+vtype=DPIO
+}
+P 100 1900 300 1900 1 0 0
+{
+T 600 1900 5 10 0 0 0 0 1
+pintype=io
+T 355 1895 5 10 1 1 0 0 1
+pinlabel=IOL_4B
+T 205 1945 5 10 1 1 0 6 1
+pinnumber=B1
+T 500 1900 5 10 0 0 0 0 1
+pinseq=8
+T 1800 1900 5 10 1 0 0 0 1
+bank=3
+T 2500 1900 5 10 1 1 0 0 1
+vtype=DPIO
+}
+P 100 2500 300 2500 1 0 0
+{
+T 600 2500 5 10 0 0 0 0 1
+pintype=io
+T 355 2495 5 10 1 1 0 0 1
+pinlabel=IOL_2B
+T 205 2545 5 10 1 1 0 6 1
+pinnumber=B2
+T 500 2500 5 10 0 0 0 0 1
+pinseq=9
+T 1800 2500 5 10 1 0 0 0 1
+bank=3
+T 2500 2500 5 10 1 1 0 0 1
+vtype=DPIO
+}
+P 100 100 300 100 1 0 0
+{
+T 600 100 5 10 0 0 0 0 1
+pintype=io
+T 355 95 5 10 1 1 0 0 1
+pinlabel=IOL_9B
+T 500 100 5 10 0 0 0 0 1
+pinseq=15
+T 1800 100 5 10 1 0 0 0 1
+bank=3
+T 2500 100 5 10 1 1 0 0 1
+vtype=DPIO
+T 205 145 5 10 1 1 0 6 1
+pinnumber=C1
+}
+P 100 2700 300 2700 1 0 0
+{
+T 600 2700 5 10 0 0 0 0 1
+pintype=io
+T 355 2695 5 10 1 1 0 0 1
+pinlabel=IOL_2A
+T 205 2745 5 10 1 1 0 6 1
+pinnumber=C2
+T 500 2700 5 10 0 0 0 0 1
+pinseq=16
+T 1800 2700 5 10 1 0 0 0 1
+bank=3
+T 2500 2700 5 10 1 1 0 0 1
+vtype=DPIO
+}
+P 100 300 300 300 1 0 0
+{
+T 600 300 5 10 0 0 0 0 1
+pintype=io
+T 355 295 5 10 1 1 0 0 1
+pinlabel=IOL_9A
+T 205 345 5 10 1 1 0 6 1
+pinnumber=D1
+T 500 300 5 10 0 0 0 0 1
+pinseq=22
+T 1800 300 5 10 1 0 0 0 1
+bank=3
+T 2500 300 5 10 1 1 0 0 1
+vtype=DPIO
+}
+P 100 1300 300 1300 1 0 0
+{
+T 600 1300 5 10 0 0 0 0 1
+pintype=io
+T 355 1295 5 10 1 1 0 0 1
+pinlabel=IOL_6B_GBIN7
+T 205 1345 5 10 1 1 0 6 1
+pinnumber=D2
+T 500 1300 5 10 0 0 0 0 1
+pinseq=23
+T 1800 1300 5 10 1 0 0 0 1
+bank=3
+T 2500 1300 5 10 1 1 0 0 1
+vtype=GBIN
+}
+P 100 1500 300 1500 1 0 0
+{
+T 600 1500 5 10 0 0 0 0 1
+pintype=io
+T 355 1495 5 10 1 1 0 0 1
+pinlabel=IOL_6A
+T 205 1545 5 10 1 1 0 6 1
+pinnumber=D3
+T 500 1500 5 10 0 0 0 0 1
+pinseq=24
+T 1800 1500 5 10 1 0 0 0 1
+bank=3
+T 2500 1500 5 10 1 1 0 0 1
+vtype=DPIO
+}
+P 100 900 300 900 1 0 0
+{
+T 600 900 5 10 0 0 0 0 1
+pintype=io
+T 355 895 5 10 1 1 0 0 1
+pinlabel=IOL_7A_GBIN6
+T 205 945 5 10 1 1 0 6 1
+pinnumber=E2
+T 500 900 5 10 0 0 0 0 1
+pinseq=30
+T 1800 900 5 10 1 0 0 0 1
+bank=3
+T 2500 900 5 10 1 1 0 0 1
+vtype=GBIN
+}
+P 100 700 300 700 1 0 0
+{
+T 600 700 5 10 0 0 0 0 1
+pintype=io
+T 355 695 5 10 1 1 0 0 1
+pinlabel=IOB_7B
+T 205 745 5 10 1 1 0 6 1
+pinnumber=F2
+T 500 700 5 10 0 0 0 0 1
+pinseq=37
+T 1800 700 5 10 1 0 0 0 1
+bank=3
+T 2500 700 5 10 1 1 0 0 1
+vtype=DPIO
+}
+T 400 3000 8 10 1 1 0 0 1
+refdes=U?
+T 2100 3000 8 10 1 1 0 0 1
+device=LP1K-BANK3
+T 400 3400 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 400 3600 8 10 0 0 0 0 1
+numslots=0
+T 400 3800 8 10 0 0 0 0 1
+footprint=CM49
+B 300 0 3100 2900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
