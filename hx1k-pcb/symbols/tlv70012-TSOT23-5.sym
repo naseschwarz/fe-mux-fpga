@@ -1,0 +1,56 @@
+v 20121123 2
+P 0 800 200 800 1 0 0
+{
+T 0 800 5 10 0 0 0 0 1
+pintype=pwr
+T 255 795 5 10 1 1 0 0 1
+pinlabel=IN
+T 105 845 5 10 1 1 0 6 1
+pinnumber=1
+T 0 800 5 10 0 0 0 0 1
+pinseq=1
+}
+P 800 0 800 200 1 0 0
+{
+T 800 0 5 10 0 0 90 0 1
+pintype=pwr
+T 805 250 5 10 1 1 0 3 1
+pinlabel=GND
+T 750 105 5 10 1 1 90 6 1
+pinnumber=2
+T 800 0 5 10 0 0 90 0 1
+pinseq=2
+}
+P 0 500 200 500 1 0 0
+{
+T 0 500 5 10 0 0 0 0 1
+pintype=in
+T 255 495 5 10 1 1 0 0 1
+pinlabel=EN
+T 105 545 5 10 1 1 0 6 1
+pinnumber=3
+T 0 500 5 10 0 0 0 0 1
+pinseq=3
+}
+P 1600 800 1400 800 1 0 0
+{
+T 1600 800 5 10 0 0 0 6 1
+pintype=pwr
+T 1345 795 5 10 1 1 0 6 1
+pinlabel=OUT
+T 1495 845 5 10 1 1 0 0 1
+pinnumber=5
+T 1600 800 5 10 0 0 0 6 1
+pinseq=5
+}
+B 200 200 1200 800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 1400 150 8 10 1 1 0 8 1
+refdes=U?
+T 1400 1050 8 10 1 1 0 6 1
+device=TLV70012
+T 200 1300 8 10 0 0 0 0 1
+numslots=0
+T 200 1500 8 10 0 0 0 0 1
+author=Johannes Agricola
+T 200 1700 8 10 0 0 0 0 1
+footprint=SOT23-5
