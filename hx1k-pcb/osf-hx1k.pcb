@@ -852,7 +852,6 @@ Via[1800.00mil 2075.00mil 31.00mil 20.00mil 0.0000 15.00mil "" "thermal(1S)"]
 Via[45.7210mm 57.5300mm 31.00mil 20.00mil 0.0000 15.00mil "" "thermal(1S)"]
 Via[2780.00mil 2265.00mil 31.00mil 20.00mil 0.0000 15.00mil "" ""]
 
-
 Element["" "CAPC1005N" "C17" "10_nF" 65.4632mm 987.29mil -11.50mil -51.50mil 0 54 ""]
 (
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
@@ -1161,7 +1160,6 @@ Element["" "CAPC1005N" "C43" "100_nF" 1855.00mil 1950.00mil -11.50mil -51.50mil 
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
-
 
 Element["hidename" "bondpad_200x300" "PAD12" "unknown" 1710.00mil 1615.00mil -3.0892mm -0.2165mm 0 64 ""]
 (
@@ -3178,6 +3176,10 @@ Layer(6 "bottom")
 )
 Layer(7 "outline")
 (
+	Line[1060.00mil 2905.00mil 2860.00mil 2905.00mil 10.00mil 20.00mil "clearline"]
+	Line[2860.00mil 2905.00mil 2860.00mil 755.00mil 10.00mil 20.00mil "clearline"]
+	Line[2860.00mil 755.00mil 1060.00mil 755.00mil 10.00mil 20.00mil "clearline"]
+	Line[1060.00mil 755.00mil 1060.00mil 2905.00mil 10.00mil 20.00mil "clearline"]
 )
 Layer(8 "spare")
 (
