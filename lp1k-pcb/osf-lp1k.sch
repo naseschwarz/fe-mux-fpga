@@ -381,7 +381,7 @@ symversion=0.1
 T 42400 34500 5 10 1 1 0 0 1
 refdes=C3
 T 42400 34300 5 10 1 1 0 0 1
-footprint=CAPC1005N
+footprint=CAPC0603N
 T 42400 34100 5 10 1 1 0 0 1
 value=1 uF
 T 42400 33900 5 10 1 1 0 0 1
