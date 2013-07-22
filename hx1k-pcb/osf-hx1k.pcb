@@ -880,14 +880,14 @@ Element["" "CAPC1005N" "C32" "10_nF" 2135.00mil 985.00mil -86.50mil -16.50mil 0 
 
 	)
 
-Element["" "CAPC1005N" "C37" "10_nF" 2740.00mil 1250.00mil -31.50mil -38.50mil 1 77 ""]
+Element["" "CAPC1005N" "C37" "10_nF" 2740.00mil 1250.00mil 18.50mil 21.50mil 1 54 ""]
 (
 	Pad[-2.95mil 17.71mil 2.95mil 17.71mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-2.95mil -17.71mil 2.95mil -17.71mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "CAPC1005N" "C36" "10_nF" 2740.00mil 1530.00mil -21.50mil -61.50mil 0 54 ""]
+Element["" "CAPC1005N" "C36" "10_nF" 2740.00mil 1530.00mil -136.50mil 26.50mil 1 54 ""]
 (
 	Pad[-2.95mil -17.71mil 2.95mil -17.71mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-2.95mil 17.71mil 2.95mil 17.71mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -901,14 +901,14 @@ Element["" "CAPC1005N" "C44" "10_nF" 1770.00mil 1215.00mil 108.50mil 24.21mil 1 
 
 	)
 
-Element["" "CAPC1005N" "C21" "10_nF" 2630.00mil 1950.00mil -11.50mil -51.50mil 0 54 ""]
+Element["" "CAPC1005N" "C21" "10_nF" 2630.00mil 1950.00mil -81.50mil -16.50mil 0 54 ""]
 (
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[17.71mil -2.95mil 17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "CAPC1005N" "C20" "1_uF" 2630.00mil 1995.00mil -31.50mil 18.50mil 0 54 ""]
+Element["" "CAPC1005N" "C20" "1_uF" 2630.00mil 1995.00mil -81.50mil -16.50mil 0 54 ""]
 (
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[17.71mil -2.95mil 17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1084,14 +1084,14 @@ Element["" "CAPC1005N" "C13" "100_nF" 2670.00mil 1005.00mil -26.50mil 18.50mil 0
 
 	)
 
-Element["" "CAPC1005N" "C34" "1_uF" 2765.00mil 1055.00mil -26.50mil -33.50mil 1 76 ""]
+Element["" "CAPC1005N" "C34" "1_uF" 2765.00mil 1055.00mil -16.50mil 81.50mil 1 53 ""]
 (
 	Pad[-2.95mil 17.71mil 2.95mil 17.71mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-2.95mil -17.71mil 2.95mil -17.71mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "CAPC1005N" "C35" "100_nF" 2720.00mil 1055.00mil -21.50mil -0.8615mm 1 76 ""]
+Element["" "CAPC1005N" "C35" "100_nF" 2720.00mil 1055.00mil -16.50mil 2.0595mm 1 53 ""]
 (
 	Pad[-2.95mil 17.71mil 2.95mil 17.71mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-2.95mil -17.71mil 2.95mil -17.71mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1112,14 +1112,14 @@ Element["" "CAPC1005N" "C31" "100_nF" 1775.00mil 1035.00mil -16.50mil -35.79mil 
 
 	)
 
-Element["" "CAPC1005N" "C39" "100_nF" 2800.00mil 1485.00mil -11.50mil -51.50mil 0 54 ""]
+Element["" "CAPC1005N" "C39" "100_nF" 2800.00mil 1485.00mil 13.50mil -46.50mil 0 54 ""]
 (
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[17.71mil -2.95mil 17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "CAPC1005N" "C38" "1_uF" 2800.00mil 1530.00mil -21.50mil 18.50mil 0 54 ""]
+Element["" "CAPC1005N" "C38" "1_uF" 2800.00mil 1530.00mil 8.50mil 13.50mil 0 54 ""]
 (
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[17.71mil -2.95mil 17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1513,28 +1513,28 @@ Element["" "RESC1005N" "R20" "120" 57.7769mm 49.5137mm -26.82mil -131.50mil 0 54
 
 	)
 
-Element["" "RESC1005N" "R18" "270" 57.3877mm 51.0459mm -0.5217mm 0.9697mm 0 54 ""]
+Element["" "RESC1005N" "R18" "270" 57.3877mm 51.0459mm -0.5217mm 1.0967mm 0 54 ""]
 (
 	Pad[-3.94mil 19.68mil 3.94mil 19.68mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-3.94mil -19.68mil 3.94mil -19.68mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
 
 	)
 
-Element["" "RESC1005N" "R19" "270" 2305.00mil 51.0459mm -0.2759mm 0.9860mm 0 54 ""]
+Element["" "RESC1005N" "R19" "270" 2305.00mil 51.0459mm -0.2759mm 1.1130mm 0 54 ""]
 (
 	Pad[-3.94mil 19.68mil 3.94mil 19.68mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-3.94mil -19.68mil 3.94mil -19.68mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
 
 	)
 
-Element["" "RESC1005N" "R23" "120" 61.0789mm 49.5137mm 33.18mil -21.50mil 0 54 ""]
+Element["" "RESC1005N" "R23" "120" 61.0789mm 49.5137mm 33.18mil -26.50mil 0 54 ""]
 (
 	Pad[19.68mil -3.94mil 19.68mil 3.94mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-19.68mil -3.94mil -19.68mil 3.94mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
 
 	)
 
-Element["" "CAPC1005N" "R2" "10k" 2505.00mil 50.4878mm 51.50mil -21.50mil 3 54 ""]
+Element["" "CAPC1005N" "R2" "10k" 2505.00mil 50.4878mm 31.50mil -66.50mil 3 54 ""]
 (
 	Pad[-2.95mil -17.71mil 2.95mil -17.71mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-2.95mil 17.71mil 2.95mil 17.71mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1797,14 +1797,14 @@ Element["hidename" "bondpad_200x300" "PAD30" "unknown" 2425.00mil 2115.00mil 0.0
 
 	)
 
-Element["" "RESC1005N" "R22" "270" 2435.00mil 51.0459mm 13.50mil 41.18mil 1 54 ""]
+Element["" "RESC1005N" "R22" "270" 2435.00mil 51.0459mm -0.2759mm 1.1130mm 0 54 ""]
 (
 	Pad[-3.94mil 19.68mil 3.94mil 19.68mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-3.94mil -19.68mil 3.94mil -19.68mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
 
 	)
 
-Element["" "RESC1005N" "R21" "270" 60.6897mm 51.0459mm -0.5217mm 0.9697mm 0 54 ""]
+Element["" "RESC1005N" "R21" "270" 60.6897mm 51.0459mm -0.7757mm 1.0967mm 0 54 ""]
 (
 	Pad[-3.94mil 19.68mil 3.94mil 19.68mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-3.94mil -19.68mil 3.94mil -19.68mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
@@ -1843,7 +1843,7 @@ Element["hidename" "bondpad_200x300" "PAD32" "unknown" 2730.00mil 2115.00mil 0.0
 
 	)
 
-Element["" "RESC1005N" "R26" "120" 68.8259mm 47.7357mm 43.18mil -21.50mil 0 54 ""]
+Element["" "RESC1005N" "R26" "120" 68.8259mm 47.7357mm 38.18mil -16.50mil 0 54 ""]
 (
 	Pad[19.68mil -3.94mil 19.68mil 3.94mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-19.68mil -3.94mil -19.68mil 3.94mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
@@ -1857,7 +1857,7 @@ Element["" "RESC1005N" "R24" "270" 68.4367mm 49.2679mm -16.50mil 91.50mil 1 54 "
 
 	)
 
-Element["" "RESC1005N" "R25" "270" 2740.00mil 49.2679mm -16.50mil 81.18mil 1 54 ""]
+Element["" "RESC1005N" "R25" "270" 2740.00mil 49.2679mm -16.50mil 91.18mil 1 54 ""]
 (
 	Pad[-3.94mil 19.68mil 3.94mil 19.68mil 17.71mil 20.00mil 23.71mil "1" "1" "square"]
 	Pad[-3.94mil -19.68mil 3.94mil -19.68mil 17.71mil 20.00mil 23.71mil "2" "2" "square"]
@@ -1957,7 +1957,7 @@ Element["hidename" "CAPC1005N" "R1" "10k" 2415.00mil 2370.00mil 31.50mil -49.21m
 
 	)
 
-Element["" "CAPC1005N" "C3" "1_uF" 2765.00mil 1615.00mil 33.50mil -31.50mil 0 77 ""]
+Element["" "CAPC1005N" "C3" "1_uF" 2765.00mil 1615.00mil 33.50mil -16.50mil 0 54 ""]
 (
 	Pad[-17.71mil -2.95mil -17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[17.71mil -2.95mil 17.71mil 2.95mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -2995,8 +2995,8 @@ Layer(1 "top")
 	Line[51.6104mm 24.7166mm 44.5484mm 24.7166mm 20.00mil 20.00mil "clearline"]
 	Line[1725.00mil 24.3326mm 44.1643mm 24.3326mm 8.00mil 20.00mil "clearline"]
 	Line[44.1643mm 24.3326mm 44.5484mm 24.7166mm 8.00mil 20.00mil "clearline"]
-	Line[1725.00mil 25.0946mm 44.1705mm 25.0946mm 8.00mil 20.00mil "clearline"]
-	Line[44.1705mm 25.0946mm 44.5484mm 24.7166mm 8.00mil 20.00mil "clearline"]
+	Line[1725.00mil 25.0946mm 1739.00mil 25.0946mm 8.00mil 20.00mil "clearline"]
+	Line[1739.00mil 25.0946mm 44.5484mm 24.7166mm 8.00mil 20.00mil "clearline"]
 	Line[43.8665mm 24.7136mm 44.5484mm 24.7136mm 8.00mil 20.00mil "clearline"]
 	Line[2585.00mil 2580.00mil 2585.00mil 2715.00mil 10.00mil 20.00mil "clearline"]
 	Line[2585.00mil 2715.00mil 2615.00mil 2745.00mil 10.00mil 20.00mil "clearline"]
