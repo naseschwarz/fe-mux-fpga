@@ -1,0 +1,17 @@
+
+Element["" "TSOT23-95P-280L1-5N__LTC_S5_Package" "" "" 2780.00mil 1685.00mil -117.00mil 55.00mil 1 100 ""]
+(
+	Pad[-37.00mil 39.50mil -37.00mil 63.50mil 24.00mil 20.00mil 44.00mil "" "1" "square,edge2"]
+	Pad[0.0000 39.50mil 0.0000 63.50mil 24.00mil 20.00mil 44.00mil "" "2" "square,edge2"]
+	Pad[37.00mil 39.50mil 37.00mil 63.50mil 24.00mil 20.00mil 44.00mil "" "3" "square,edge2"]
+	Pad[37.00mil -63.50mil 37.00mil -39.50mil 24.00mil 20.00mil 44.00mil "" "4" "square"]
+	Pad[-37.00mil -63.50mil -37.00mil -39.50mil 24.00mil 20.00mil 44.00mil "" "5" "square"]
+	ElementLine [-44.75mil 17.50mil -22.00mil 17.50mil 10.00mil]
+	ElementLine [-44.75mil 17.50mil -57.00mil 5.25mil 10.00mil]
+	ElementLine [-57.00mil -17.50mil -57.00mil 5.25mil 10.00mil]
+	ElementLine [-57.00mil -17.50mil -22.00mil -17.50mil 10.00mil]
+	ElementLine [22.00mil 17.50mil 57.00mil 17.50mil 10.00mil]
+	ElementLine [57.00mil -17.50mil 57.00mil 17.50mil 10.00mil]
+	ElementLine [22.00mil -17.50mil 57.00mil -17.50mil 10.00mil]
+
+	)
