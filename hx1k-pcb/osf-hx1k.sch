@@ -139,7 +139,7 @@ refdes=C42
 T 64800 30300 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 64800 30100 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 64800 29900 5 10 1 1 0 0 1
 voltage=6.3 V
 T 64800 29700 5 10 1 1 0 0 1
@@ -220,7 +220,7 @@ refdes=C38
 T 64800 31900 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 64800 31700 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 64800 31500 5 10 1 1 0 0 1
 voltage=6.3 V
 T 64800 31300 5 10 1 1 0 0 1
@@ -299,7 +299,7 @@ refdes=C34
 T 64800 33500 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 64800 33300 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 64800 33100 5 10 1 1 0 0 1
 voltage=6.3 V
 T 64800 32900 5 10 1 1 0 0 1
@@ -378,7 +378,7 @@ refdes=C30
 T 64800 35100 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 64800 34900 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 64800 34700 5 10 1 1 0 0 1
 voltage=6.3 V
 T 64800 34500 5 10 1 1 0 0 1
@@ -456,7 +456,7 @@ refdes=C20
 T 67100 36700 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 67100 36500 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 67100 36300 5 10 1 1 0 0 1
 voltage=6.3 V
 T 67100 36100 5 10 1 1 0 0 1
@@ -519,7 +519,7 @@ refdes=C11
 T 63000 38300 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 63000 38100 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 63000 37900 5 10 1 1 0 0 1
 voltage=6.3 V
 T 63000 37700 5 10 1 1 0 0 1
@@ -627,9 +627,7 @@ refdes=C10
 T 61500 38300 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 61500 38100 5 10 1 1 0 0 1
-value=1 uF
-T 61500 37900 5 10 1 1 0 0 1
-voltage=6.3 V
+value=1 uF / 6.3 V
 T 61500 37700 5 10 1 1 0 0 1
 ctype=X5R
 }
@@ -1107,10 +1105,8 @@ refdes=C2
 T 67400 42400 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 67400 42200 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 16 V
 T 67400 42000 5 10 1 1 0 0 1
-voltage=16 V
-T 67400 41800 5 10 1 1 0 0 1
 ctype=X5R
 }
 C 70700 42700 1 270 0 capacitor-1.sym
@@ -1124,10 +1120,8 @@ refdes=C4
 T 71200 42400 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 71200 42200 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 71200 42000 5 10 1 1 0 0 1
-voltage=6.3 V
-T 71200 41800 5 10 1 1 0 0 1
 ctype=X5R
 }
 N 66700 42900 68900 42900 4
@@ -1498,10 +1492,8 @@ refdes=C1
 T 60400 42300 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 60400 42100 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 16 V
 T 60400 41900 5 10 1 1 0 0 1
-voltage=16 V
-T 60400 41700 5 10 1 1 0 0 1
 ctype=X5R
 }
 C 63700 42600 1 270 0 capacitor-1.sym
@@ -1515,10 +1507,8 @@ refdes=C3
 T 64200 42300 5 10 1 1 0 0 1
 footprint=CAPC1005N
 T 64200 42100 5 10 1 1 0 0 1
-value=1 uF
+value=1 uF / 6.3 V
 T 64200 41900 5 10 1 1 0 0 1
-voltage=6.3 V
-T 64200 41700 5 10 1 1 0 0 1
 ctype=X5R
 }
 N 59700 42800 61900 42800 4
