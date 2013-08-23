@@ -1,0 +1,7 @@
+Contents of this folder:
+- hx1k-pcb/
+	Design documents for the HX1K evaluation board
+- lp1k-pcb
+	Design documents for the LP1K board (including evaluation board)
+- hx1k-firmware/
+	Firmware for the HX1K evaluation board
