@@ -1,0 +1,29 @@
+== Compiling the Firmware ==
+- Get and install Lattice iCEcube2
+
+- Create a new iCEcube2 project. Parameters:
+  - Device: HX1K
+  - Package: TQFP144
+- Add design files:
+  - top.v
+- Add constraint files
+  - clock.sdc
+- Sun synplify synthesis
+- Add constraint files
+  - top.pcf
+- Generate Bitmap
+
+== Using the Board ==
+- Supply 3 V to both voltage regulator pins (One is on the top right, 
+  one on the bottom left.)
+- Connect the Programmer. From Right (the 8p8c connector side) to left:
+  1:  Vcc        (red)
+  2:  TDO        (brown)
+  3:  TDI        (orange)
+  4:  ISPEN/PROG (yellow)
+  5:  TRST/Done  (green)
+  6:  TMS        (purple)
+  7:  GND        (black)
+  8:  TCK        (white)
+  9:  leave unconnected
+  10: INIT       (blue)
