@@ -355,11 +355,11 @@ module top_int (
 			1'b0:
 			begin
 				out_diff_0[7] <= do_in[0];
-				out_diff_180[7] <= do_in[1];
+				out_diff_180[7] <= do_in[2];
 			end
 			1'b1:
 			begin
-				out_diff_0[7] <= do_in[2];
+				out_diff_0[7] <= do_in[1];
 				out_diff_180[7] <= do_in[3];
 			end
 		endcase
