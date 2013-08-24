@@ -16,6 +16,8 @@
 == Using the Board ==
 - Supply 3 V to both voltage regulator pins (One is on the top right, 
   one on the bottom left.)
+
+=== Programming ===
 - Connect the Programmer. From left (the 8p8c connector side) to right
   (board edge):
   1:  Vcc        (red)
@@ -36,6 +38,12 @@
 - Right-click on the device row, select device properties
 - Select either:
     CRAM Programming + Program, Verify
-  or
-    NVCM Programming + NVCM Program, Verify:w
+  or to PERMANENTLY!!! programm the NVCM:
+    NVCM Programming + NVCM Program, Verify
 - In the menu bar: Design -> Program
+- Reset all chips connected to the board after a re-program.
+
+=== Connecting ===
+- Connect the top 8p8c connector to your readout device
+- Apply power to the chips (Do this before you connect them!)
+- Connect the two bottom 8p8c connectors to your chips
