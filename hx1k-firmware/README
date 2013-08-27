@@ -16,7 +16,10 @@
 == Using the Board ==
 - Supply 3 V to both voltage regulator pins (One is on the top right, 
   one on the bottom left.)
-- Connect the Programmer. From Right (the 8p8c connector side) to left:
+
+=== Programming ===
+- Connect the Programmer. From left (the 8p8c connector side) to right
+  (board edge):
   1:  Vcc        (red)
   2:  TDO        (brown)
   3:  TDI        (orange)
@@ -27,3 +30,20 @@
   8:  TCK        (white)
   9:  leave unconnected
   10: INIT       (blue)
+- (Get, install and) start the lattice diamond programmer.
+- Do a boundary scan, one device should show up
+- Select the device type: iCE40HX1K
+- Select the file name: 
+    <project dir>/*_Implmnt/sbt/outputs/bitmap/top_bitmap.bin
+- Right-click on the device row, select device properties
+- Select either:
+    CRAM Programming + Program, Verify
+  or to PERMANENTLY!!! programm the NVCM:
+    NVCM Programming + NVCM Program, Verify
+- In the menu bar: Design -> Program
+- Reset all chips connected to the board after a re-program.
+
+=== Connecting ===
+- Connect the top 8p8c connector to your readout device
+- Apply power to the chips (Do this before you connect them!)
+- Connect the two bottom 8p8c connectors to your chips
