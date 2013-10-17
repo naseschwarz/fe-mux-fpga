@@ -1,0 +1,18 @@
+
+Element["" "" "" "" 1830.00mil 1790.00mil 0.0000 -2.0160mm 0 100 ""]
+(
+	Pad[-130.50mil -75.00mil -56.50mil -75.00mil 20.00mil 12.00mil 26.00mil "1" "1" "square"]
+	Pad[-130.50mil -25.00mil -56.50mil -25.00mil 20.00mil 12.00mil 26.00mil "2" "2" "square"]
+	Pad[-130.50mil 25.00mil -56.50mil 25.00mil 20.00mil 12.00mil 26.00mil "3" "3" "square"]
+	Pad[-130.50mil 75.00mil -56.50mil 75.00mil 20.00mil 12.00mil 26.00mil "4" "4" "square"]
+	Pad[56.50mil 75.00mil 130.50mil 75.00mil 20.00mil 12.00mil 26.00mil "5" "5" "square,edge2"]
+	Pad[56.50mil 25.00mil 130.50mil 25.00mil 20.00mil 12.00mil 26.00mil "6" "6" "square,edge2"]
+	Pad[56.50mil -25.00mil 130.50mil -25.00mil 20.00mil 12.00mil 26.00mil "7" "7" "square,edge2"]
+	Pad[56.50mil -75.00mil 130.50mil -75.00mil 20.00mil 12.00mil 26.00mil "8" "8" "square,edge2"]
+	ElementLine [31.50mil 100.00mil -31.50mil 100.00mil 10.00mil]
+	ElementLine [-31.50mil 100.00mil -31.50mil -90.00mil 10.00mil]
+	ElementLine [-31.50mil -90.00mil -21.50mil -100.00mil 10.00mil]
+	ElementLine [-21.50mil -100.00mil 31.50mil -100.00mil 10.00mil]
+	ElementLine [31.50mil -100.00mil 31.50mil 100.00mil 10.00mil]
+
+	)
