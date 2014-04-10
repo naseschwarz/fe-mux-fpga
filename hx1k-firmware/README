@@ -48,5 +48,7 @@
 
 === Connecting ===
 - Connect the top 8p8c connector to your readout device
-- Apply power to the chips (Do this before you connect them!)
+- Apply power to the chips (Do this before you connect them. The LVDS output
+  network is otherwise able to partly power the FE chip, which will lead to
+  a weird state once you really apply power.)
 - Connect the two bottom 8p8c connectors to your chips
