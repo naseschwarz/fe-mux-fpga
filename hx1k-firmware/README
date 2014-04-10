@@ -40,6 +40,9 @@
     CRAM Programming + Program, Verify
   or to PERMANENTLY!!! programm the NVCM:
     NVCM Programming + NVCM Program, Verify
+  *****************************************************************************
+  ****** You can only use the NVCM once! The flashed config is permanent ******
+  *****************************************************************************
 - In the menu bar: Design -> Program
 - Reset all chips connected to the board after a re-program.
 
