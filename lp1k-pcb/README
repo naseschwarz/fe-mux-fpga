@@ -6,16 +6,16 @@ This folder contains the HX1K pcb prototype for FE-I4 data multiplexing:
 - footprints/
 	Footprints that are used on the PCB.
 
-- osf-hx1k.sch:
+- osf-lp1k.sch:
 	Schematics in gEDA's gschem format. You require gschem [1] to open
 	and edit these files. Please add the symbols/ folder to your symbols
 	library or start gschem using 'make ge', which will automatically
 	configure everything.
 
-- osf-hx1k.pcb:
+- osf-lp1k.pcb:
 	The PCB data in gEDA's pcb format. You require gEDA's pcb [2] to
 	open, edit and export these files. The PCB is linked to the schematics,
-	if you plan to add/remove/modify components, do so in osf-hx1k.sch
+	if you plan to add/remove/modify components, do so in osf-lp1k.sch
 	and use 'make g2p' to forward the change to the pcb. 'make g2p' 
 	requires gsch2pcb [3] and will generate some temporary files.
 
