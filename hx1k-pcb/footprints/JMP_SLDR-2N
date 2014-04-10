@@ -1,0 +1,15 @@
+
+Element["" "jumper" "" "" 1580.00mil 3070.00mil -25.00mil -122.50mil 0 100 ""]
+(
+	Pad[-30.00mil -12.50mil -30.00mil 12.50mil 50.00mil 20.00mil 70.00mil "" "1" "octagon"]
+	Pad[-17.50mil -25.00mil -17.50mil 25.00mil 25.00mil 20.00mil 45.00mil "" "1" "square"]
+	Pad[30.00mil -12.50mil 30.00mil 12.50mil 50.00mil 20.00mil 70.00mil "" "2" "octagon"]
+	Pad[17.50mil -25.00mil 17.50mil 25.00mil 25.00mil 20.00mil 45.00mil "" "2" "square"]
+	ElementLine [30.00mil 52.50mil -30.00mil 52.50mil 10.00mil]
+	ElementLine [30.00mil -52.50mil -30.00mil -52.50mil 10.00mil]
+	ElementArc [-30.00mil -12.50mil 40.00mil 40.00mil 270 90 10.00mil]
+	ElementArc [-30.00mil 12.50mil 40.00mil 40.00mil 0 90 10.00mil]
+	ElementArc [30.00mil 12.50mil 40.00mil 40.00mil 90 90 10.00mil]
+	ElementArc [30.00mil -12.50mil 40.00mil 40.00mil 180 90 10.00mil]
+
+	)
