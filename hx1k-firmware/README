@@ -2,6 +2,7 @@
 - Get and install Lattice iCEcube2
 
 - Create a new iCEcube2 project. Parameters:
+  - Device Family: iCE40
   - Device: HX1K
   - Package: TQFP144
 - Add design files:
