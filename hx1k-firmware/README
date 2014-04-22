@@ -11,7 +11,7 @@
 - Sun synplify synthesis
 - Add constraint files
   - top.pcf
-- Generate Bitmap
+- Execute Tool -> Run All 
 
 == Using the Board ==
 - Supply 3 V to both voltage regulator pins (One is on the top right, 
