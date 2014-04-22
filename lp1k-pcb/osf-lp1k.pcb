@@ -976,12 +976,12 @@ Via[60.5380mm 48.5910mm 25.00mil 20.00mil 0.0000 11.00mil "" "thermal(3X,4S)"]
 Via[63.2050mm 43.0030mm 25.00mil 20.00mil 0.0000 11.00mil "" "thermal(3X,4S)"]
 Via[61.9350mm 44.2730mm 25.00mil 20.00mil 0.0000 11.00mil "" "thermal(3X,4S)"]
 Via[45.2980mm 46.6860mm 10.00mil 7.00mil 0.0000 5.00mil "" ""]
-Via[49.7430mm 47.1940mm 20.00mil 7.00mil 0.0000 10.00mil "" ""]
 Via[45.2980mm 45.6700mm 10.00mil 7.00mil 0.0000 5.00mil "" ""]
 Via[49.1080mm 48.0830mm 10.00mil 7.00mil 0.0000 5.00mil "" ""]
 Via[51.1400mm 47.3210mm 10.00mil 7.00mil 0.0000 5.00mil "" ""]
 Via[49.1080mm 44.4000mm 10.00mil 7.00mil 0.0000 5.00mil "" ""]
 Via[52.2830mm 47.3210mm 10.00mil 7.00mil 0.0000 5.00mil "" "thermal(3X)"]
+Via[49.2350mm 46.6860mm 10.00mil 7.00mil 0.0000 5.00mil "" ""]
 
 Element["" "lTSSOP-28" "U4" "unknown" 26.1234mm 16.3823mm -170.00mil 45.00mil 1 100 ""]
 (
@@ -3528,13 +3528,8 @@ Layer(1 "top")
 	Line[47.9650mm 45.9240mm 50.7590mm 45.9240mm 10.00mil 20.00mil "clearline"]
 	Line[50.7590mm 45.9240mm 51.0130mm 45.6700mm 10.00mil 20.00mil "clearline"]
 	Line[46.5900mm 47.2050mm 47.3190mm 47.2050mm 10.00mil 20.00mil "clearline"]
-	Line[47.3190mm 47.2050mm 48.0920mm 46.4320mm 10.00mil 20.00mil "clearline"]
-	Line[48.0920mm 46.4320mm 51.5210mm 46.4320mm 10.00mil 20.00mil "clearline"]
-	Line[51.5210mm 46.4320mm 52.2830mm 45.6700mm 10.00mil 20.00mil "clearline"]
-	Line[52.2830mm 45.6700mm 52.2830mm 44.1841mm 10.00mil 20.00mil "clearline"]
 	Line[45.2980mm 46.6860mm 44.2090mm 46.6860mm 10.00mil 20.00mil "clearline"]
 	Line[44.2090mm 46.6860mm 44.1900mm 46.7050mm 10.00mil 20.00mil "clearline"]
-	Line[49.7430mm 47.1940mm 49.7430mm 48.9339mm 10.00mil 20.00mil "clearline"]
 	Line[45.2980mm 45.6700mm 44.2250mm 45.6700mm 10.00mil 20.00mil "clearline"]
 	Line[44.2250mm 45.6700mm 44.1900mm 45.7050mm 10.00mil 20.00mil "clearline"]
 	Line[49.1080mm 48.0830mm 48.4730mm 48.0830mm 10.00mil 20.00mil "clearline"]
@@ -3543,10 +3538,16 @@ Layer(1 "top")
 	Line[50.6320mm 42.1600mm 51.0130mm 42.5410mm 10.00mil 20.00mil "clearline"]
 	Line[51.0130mm 45.6700mm 51.0130mm 42.5410mm 10.00mil 20.00mil "clearline"]
 	Line[51.3940mm 50.8770mm 51.0130mm 50.4960mm 10.00mil 20.00mil "clearline"]
-	Line[51.9939mm 50.8770mm 52.2830mm 50.5879mm 10.00mil 20.00mil "clearline"]
+	Line[2047.00mil 50.8770mm 52.2830mm 50.5879mm 10.00mil 20.00mil "clearline"]
 	Line[51.1400mm 47.3210mm 51.0130mm 47.4480mm 10.00mil 20.00mil "clearline"]
 	Line[51.0130mm 50.4960mm 51.0130mm 47.4480mm 10.00mil 20.00mil "clearline"]
 	Line[52.2830mm 50.5879mm 52.2830mm 47.3210mm 10.00mil 20.00mil "clearline"]
+	Line[46.6950mm 47.2050mm 49.5000mm 47.2050mm 10.00mil 20.00mil "clearline"]
+	Line[49.5000mm 47.2050mm 49.7430mm 47.4480mm 10.00mil 20.00mil "clearline"]
+	Line[49.7430mm 47.4480mm 49.7430mm 48.9339mm 10.00mil 20.00mil "clearline"]
+	Line[49.2350mm 46.6860mm 51.5210mm 46.6860mm 10.00mil 20.00mil "clearline"]
+	Line[51.5210mm 46.6860mm 52.2830mm 45.9240mm 10.00mil 20.00mil "clearline"]
+	Line[52.2830mm 45.9240mm 52.2830mm 44.1841mm 10.00mil 20.00mil "clearline"]
 	Polygon("clearpoly")
 	(
 		[0.0860mm 81.1030mm] [19.6440mm 81.1030mm] [19.6440mm 52.6550mm] [21.2950mm 51.0040mm] [21.2950mm 27.1280mm] 
@@ -3869,7 +3870,6 @@ Layer(5 "bottom")
 	Line[37.2970mm 13.1580mm 37.2970mm 14.4280mm 8.00mil 16.00mil "clearline"]
 	Line[37.2970mm 14.4280mm 37.5510mm 14.6820mm 8.00mil 16.00mil "clearline"]
 	Line[45.2980mm 46.6860mm 49.2350mm 46.6860mm 10.00mil 20.00mil "clearline"]
-	Line[49.2350mm 46.6860mm 49.7430mm 47.1940mm 10.00mil 20.00mil "clearline"]
 	Line[45.2980mm 45.6700mm 49.3620mm 45.6700mm 10.00mil 20.00mil "clearline"]
 	Line[49.3620mm 45.6700mm 50.5050mm 46.8130mm 10.00mil 20.00mil "clearline"]
 	Line[50.5050mm 46.8130mm 50.5050mm 47.5750mm 10.00mil 20.00mil "clearline"]
@@ -4446,7 +4446,7 @@ NetList()
 		Connect("J7-6")
 		Connect("PAD16-1")
 		Connect("U1-G6")
-		Connect("U5-5")
+		Connect("U5-2")
 	)
 	Net("SPI_SI_OB" "(unknown)")
 	(
@@ -4458,7 +4458,7 @@ NetList()
 		Connect("J7-5")
 		Connect("PAD15-1")
 		Connect("U1-F5")
-		Connect("U5-2")
+		Connect("U5-5")
 	)
 	Net("SPI_SO_OB" "(unknown)")
 	(
