@@ -53,3 +53,12 @@
   network is otherwise able to partly power the FE chip, which will lead to
   a weird state once you really apply power.)
 - Connect the two bottom 8p8c connectors to your chips
+
+=== Troubleshooting ===
+== iceCube Licensing Issues ==
+- On Linux, you need to have a ethernet device called eth0 or xm0 for the 
+  licensing to work. Alternatively, you can just create your own:
+	modprobe dummy
+	ip link set name eth0 dev dummy0
+	ip link set eth0 address de:ad:be:ef:45:67
+  The MAC address you need to request the license file is then deadbeef4567
